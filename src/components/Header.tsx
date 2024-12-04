@@ -9,7 +9,7 @@ const Header = () => {
       <h1 className="text-2xl sm:text-3xl font-semibold">FOOT WEAR</h1>
 
       {/* Navigation */}
-      <nav className="flex gap-6 sm:gap-10 items-center mt-3 sm:mt-0">
+      <nav className="flex gap-5 sm:gap-10 items-center mt-3 sm:mt-0">
         <Link href="/" className="font-bold hover:underline">Home</Link>
         <Link href="/about" className="font-bold hover:underline">About</Link>
         <Link href="/shop" className="font-bold hover:underline">ShopNow</Link>
